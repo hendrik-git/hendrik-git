@@ -5,3 +5,5 @@
 ![Rust](https://img.shields.io/badge/Rust-%20-red?style=for-the-badge&logo=Rust)
 
 Welcome to my profile. I have a masters degree in engineering (mechatronics) but somehow found myself leaning more to the software part of my education. Fueled by several books on software engineering, I've found myself testing out different concepts, tools and processes that I have learned about. Some of which end up in my repositories here. Take a look, you may find something that interests you!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hendrik-git&layout=compact&theme=transparent)
